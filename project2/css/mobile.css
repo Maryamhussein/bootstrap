@@ -1,0 +1,19 @@
+@media (max-width: 768px) {
+  .slider .carousel-inner h1 {
+    font-size: 30px;
+  }
+  .price-table .card.corporate {
+    position: relative;
+    top: 0;
+  }
+
+  .footer h4 {
+    margin-top: 15px;
+  }
+  .footer .contact li {
+    margin-bottom: 10px;
+  }
+  .copyright .info {
+    margin-bottom: 10px;
+  }
+}
